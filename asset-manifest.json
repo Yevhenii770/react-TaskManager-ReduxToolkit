@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-TaskManager-ReduxToolkit/static/css/main.aaaf48ca.css",
+    "main.js": "/react-TaskManager-ReduxToolkit/static/js/main.fc07798e.js",
+    "index.html": "/react-TaskManager-ReduxToolkit/index.html",
+    "main.aaaf48ca.css.map": "/react-TaskManager-ReduxToolkit/static/css/main.aaaf48ca.css.map",
+    "main.fc07798e.js.map": "/react-TaskManager-ReduxToolkit/static/js/main.fc07798e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aaaf48ca.css",
+    "static/js/main.fc07798e.js"
+  ]
+}
